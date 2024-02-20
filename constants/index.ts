@@ -84,7 +84,7 @@ export const navLinks = [
         },
         {
           label: "Priority Customer Support",
-          isIncluded: true,
+          isIncluded: false,
         },
         {
           label: "Priority Updates",
